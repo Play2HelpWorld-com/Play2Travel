@@ -9,7 +9,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "The platform offers a variety of games, from strategy to adventure, each designed to engage players while promoting empathy and global awareness. The seamless integration of gaming mechanics with opportunities to make a tangible impact sets Play2Help apart from traditional games.",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "The platform offers a variety of games, from strategy to adventure, each designed to engage players while promoting empathy and global awareness. The seamless integration of gaming mechanics with opportunities to make a tangible impact sets Play2Help apart from traditional games.",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "The platform offers a variety of games, from strategy to adventure, each designed to engage players while promoting empathy and global awareness. The seamless integration of gaming mechanics with opportunities to make a tangible impact sets Play2Help apart from traditional games.",
   },
   {
     id: 4,
@@ -33,6 +33,6 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "The platform offers a variety of games, from strategy to adventure, each designed to engage players while promoting empathy and global awareness. The seamless integration of gaming mechanics with opportunities to make a tangible impact sets Play2Help apart from traditional games.",
   },
 ];

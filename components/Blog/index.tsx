@@ -13,7 +13,7 @@ const Blog = async () => {
             headerInfo={{
               title: `NEWS & BLOGS`,
               subtitle: `Latest News & Blogs`,
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+              description: `"Play2Travel" is a revolutionary gaming platform where entertainment meets altruism. Players dive into exciting challenges, solve real-world-inspired problems, and collaborate to aid virtual.`,
             }}
           />
         </div>
